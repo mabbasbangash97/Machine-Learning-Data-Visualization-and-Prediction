@@ -11,5 +11,5 @@ Data Files(.csv):
 Music.csv (kaggle)
 
 Tools Used for Data Visualization:
-VS Code (Dot Extension)
+VS Code (Dot Extension),
 Jupyter Notebook
