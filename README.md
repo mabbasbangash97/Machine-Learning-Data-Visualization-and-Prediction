@@ -4,7 +4,7 @@ Libraries Used:
 Pandas,
 Scikit-Learn
 
-Algorithm for Machine Learning Model
+Algorithm for Machine Learning Model:
 Tree Classification
 
 Data Files(.csv):
